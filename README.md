@@ -3,3 +3,7 @@
 https://dlsyscourse.org/   
 https://github.com/dlsyscourse
 
+# remain to do:
+# 1. learn how to use pybind11
+# 2. study numdifftools
+

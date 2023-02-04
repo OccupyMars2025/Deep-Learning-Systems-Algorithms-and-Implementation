@@ -4,6 +4,7 @@
 # Finish this course and implement a reasonable deep learning system with more than 2000 lines of dense code. The name of the system is "needle"(necessary elements of deep learning). 
 ## https://dlsyscourse.org/   
 ## https://github.com/dlsyscourse
+# The problems I encountered when studying this course are recorded in the "Issues".
 
 
 # remain to do:

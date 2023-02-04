@@ -5,6 +5,9 @@
 ## https://dlsyscourse.org/   
 ## https://github.com/dlsyscourse
 
+# 2023/1/27  19:00  - 2/4 15:00:  finish lecture 1-5 and homework 0
+# pause at 2023/2/4 15:00 
+
 # remain to do:
 # 1. learn how to use pybind11
 # 2. study numdifftools

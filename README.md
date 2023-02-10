@@ -9,8 +9,8 @@ The problems I encountered when studying this course are recorded in the "Issues
    
 2023/1/27  19:00 - 2023/2/9 10:00 : implement reverse mode automatic differentiation
    
-
-# remain to do:
-# 1. learn how to use pybind11
-# 2. study numdifftools
+## [project progress](https://docs.qq.com/sheet/DV2ZLY1FCeUZ5bFBX?tab=BB08J2)
+remain to do:
+1. learn how to use pybind11
+2. study numdifftools
 
